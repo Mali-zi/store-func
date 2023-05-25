@@ -2,4 +2,4 @@
 
 This project was bootstrapped with Create React App
 
-<img width="1199" alt="store-func-screenshot" src="https://raw.githubusercontent.com/Mali-zi/store-func/master/img/item-black.jpg">
+<img width="1199" alt="store-func-screenshot" src="https://github.com/Mali-zi/store-func/blob/master/img/screenshot.JPG">
